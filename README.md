@@ -14,21 +14,21 @@ Below, the six Machine Learning, or ML, models will be evaluated:
    Pros: easy to read, easy to identify where updates/fixes need to happen
    Cons: ugly (personal opinion), easy to overfit/underfit
    
-4. Random Forest, 
+4. Random Forest, multiple trees with a training data set
    Pros: most used so lots of documentation and support online, 
    Cons: reduced over/under fitting, slow training, and can be biased 
    
-6. Support Vector Machine (SVM)
-   Pros:
-   Cons:
+6. Support Vector Machine (SVM), classifies two-groups
+   Pros: fast, does great with a clear division
+   Cons: large data is too much for it
    
-8. K-Nearest Neighbour (KNN)
-   Pros:
-   Cons:
+8. K-Nearest Neighbour (KNN), target shape to predict 
+   Pros: no training, has different interior criteria, 
+   Cons: has a hard time with outliers, slow
    
-10. Naive Bayes
-   Pros:
-   Cons:
+10. Naive Bayes, based on Bayes’ predicting Theorem (P(A|B) =  P(A) P(B|A) / P(B))
+   Pros: fast, binary and multi variables
+   Cons: training (if something was not in the training, it's null), 
 
 
 
